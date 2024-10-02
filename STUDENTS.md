@@ -1,41 +1,26 @@
 # Ученики 11 кракена
 
-| ФИО                             | Логин            | Сайт                                                 | Почта РешуЕГЭ         |
-|---------------------------------|------------------|------------------------------------------------------|-----------------------|
-| Лиходей Назар   Богданович      | idk0182          | [https://idk0182.github.io](https://idk0182.github.io)                            | nazar_csi@mail.ru     |
-| Зубарев Кирилл Сергеевич        | closettk         | [https://closettk.github.io](https://closettk.github.io)                           | faketaggle@gmail.com  |
-| Лобазев Кирилл Александрович    | LobazevK         | [https://lobazevk.github.io](https://lobazevk.github.io)                           |                       |
-| Фомин Тимофей Сергеевич         | t1m013y-schinf11 | [https://t1m013y-schinf11.github.io](https://t1m013y-schinf11.github.io)                  | t1m01y80m1n@gmail.com |
-| Антипова Евдокия Александровна  | evvhelppls       | [https://evvhelppls.github.io](https://evvhelppls.github.io)                        |                       |
-| Полина Сердукова Александровна  | Polina686        | [https://polina686.github.io](https://polina686.github.io)                          |                       |
-| Родина Екатерина Павловна       | KaterinaM07      | [https://github.com/KaterinaM07/katerinam07.github.io](https://github.com/KaterinaM07/katerinam07.github.io) |                       |
-| Камилова Ниса Алишеровна        | kaniessi         | [https://kaniessi.github.io](https://kaniessi.github.io)                           |                       |
-| Музыка Тимофей Кириллович | tm0009 | https://github.com/tm0009/trivial | |
-| Ермаков Фёдор Александрович | FedorSmitt | https://github.com/FedorSmitt/Task1 | |
-
-
-elizabeth:
-Иванова Елизавета Андреевна 11 класс 
-Liza Ivenova 
-https://github.com/LizaIvenova/README/blob/main/README.md
-
-Леша Загоскин:
-Загоскин Алесей Александрович                                                                              AlexeyZagoskin                                                                                                                  https://alexeyzagoskin.github.io/AlekseyZagoskin.github.io/
-
-сонечка:
-Тертышникова София Евгеньевна 
-Sonechka007 
-
-https://github.com/Sonechka007/sonechka-slang
-
-Maxim:
-Гицба Максим Игоревич gamekiller2007
-
-https://github.com/gamekiller2007/README.md/blob/main/README.md
-
-Маргошка:
-Маргарита Бузулеева 
-
-margaritttaa
-
-https://github.com/margaritttaa/margaritttaa/blob/main/README.md
+| ФИО | GitHub | Blog |
+| --- | --- | --- |
+| Антипова Ева       | [evvhelppls](https://github.com/evvhelppls) | [Блог evvhelppls](https://evvhelppls.github.io) |
+| Асмандияров Дима   | [](https://github.com/) | [Блог ](https://.github.io) |
+| Бузулеева Рита     | [margaritttaa](https://github.com/margaritttaa) | [Блог margaritttaa](https://margaritttaa.github.io) |
+| Геращенко Соня     | [Gerash07](https://github.com/Gerash07) | [Блог Gerash07](https://Gerash07.github.io) |
+| Гицба Максим       | [gamekiller2007](https://github.com/gamekiller2007) | [Блог gamekiller2007](https://gamekiller2007.github.io) |
+| Голобокова Лиза    | [](https://github.com/) | [Блог ](https://.github.io) |
+| Ермаков Федя       | [FedorSmitt](https://github.com/FedorSmitt) | [Блог FedorSmitt](https://FedorSmitt.github.io) |
+| Загоскин Леша      | [](https://github.com/) | [Блог ](https://.github.io) |
+| Зубарев Кирилл     | [closettk](https://github.com/closettk) | [Блог closettk](https://closettk.github.io) |
+| Иванова Лиза       | [](https://github.com/) | [Блог ](https://.github.io) |
+| Камилова Ниса      | [kaniessi](https://github.com/kaniessi) | [Блог kaniessi](https://kaniessi.github.io) |
+| Лиханова Алевтина  | [](https://github.com/) | [Блог ](https://.github.io) |
+| Лиходей Назар      | [idk0182](https://github.com/idk0182) | [Блог idk0182](https://idk0182.github.io) |
+| Лобазев Кирилл     | [LobazevK](https://github.com/LobazevK) | [Блог LobazevK](https://LobazevK.github.io) |
+| Мамедов Гейдар     | [](https://github.com/) | [Блог ](https://.github.io) |
+| Маркина Милана     | [](https://github.com/) | [Блог ](https://.github.io) |
+| Музыка Тимофей     | [tm0009](https://github.com/tm0009) | [Блог tm0009](https://tm0009.github.io) |
+| Новиков Тимофей    | [monkeymoney115](https://github.com/monkeymoney115) | [Блог monkeymoney115](https://monkeymoney115.github.io) |
+| Родина Катя        | [KaterinaM07](https://github.com/KaterinaM07) | [Блог KaterinaM07](https://KaterinaM07.github.io) |
+| Сердукова Полина   | [Polina686](https://github.com/Polina686) | [Блог Polina686](https://Polina686.github.io) |
+| Тертышникова Соня  | [Sonechka007](https://github.com/Sonechka007) | [Блог Sonechka007](https://Sonechka007.github.io) |
+| Фомин Тимофей      | [t1m013y-schinf11](https://github.com/t1m013y-schinf11) | [Блог t1m013y-schinf11](https://t1m013y-schinf11.github.io) |
