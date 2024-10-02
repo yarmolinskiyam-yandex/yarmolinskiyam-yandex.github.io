@@ -10,18 +10,9 @@
 | Полина Сердукова Александровна  | Polina686        | [https://polina686.github.io](https://polina686.github.io)                          |                       |
 | Родина Екатерина Павловна       | KaterinaM07      | [https://github.com/KaterinaM07/katerinam07.github.io](https://github.com/KaterinaM07/katerinam07.github.io) |                       |
 | Камилова Ниса Алишеровна        | kaniessi         | [https://kaniessi.github.io](https://kaniessi.github.io)                           |                       |
+| Музыка Тимофей Кириллович | tm0009 | https://github.com/tm0009/trivial | |
+| Ермаков Фёдор Александрович | FedorSmitt | https://github.com/FedorSmitt/Task1 | |
 
-т м:
-Здравствуйте, Арсений Маркович.
-Музыка Тимофей Кириллович
-tm0009
-https://github.com/tm0009/trivial
-
-Fedor Smit:
-Здравствуйте, Арсений Маркович! Отправляю Вам домашнее задание по информатике
-Ермаков Фёдор Александрович, 11 класс
-FedorSmitt - имя пользователя на гитхабе
-https://github.com/FedorSmitt/Task1
 
 elizabeth:
 Иванова Елизавета Андреевна 11 класс 
