@@ -3,15 +3,15 @@
 | ФИО | GitHub | Blog |
 | --- | --- | --- |
 | Антипова Ева       | [evvhelppls](https://github.com/evvhelppls) | [Блог evvhelppls](https://evvhelppls.github.io) |
-| Асмандияров Дима   | [](https://github.com/) | [Блог ](https://.github.io) |
+| Асмандияров Дима   | [Dimalio](https://github.com/Dimalio) | [Блог Dimalio](https://Dimalio.github.io) |
 | Бузулеева Рита     | [margaritttaa](https://github.com/margaritttaa) | [Блог margaritttaa](https://margaritttaa.github.io) |
 | Геращенко Соня     | [Gerash07](https://github.com/Gerash07) | [Блог Gerash07](https://Gerash07.github.io) |
 | Гицба Максим       | [gamekiller2007](https://github.com/gamekiller2007) | [Блог gamekiller2007](https://gamekiller2007.github.io) |
 | Голобокова Лиза    | [](https://github.com/) | [Блог ](https://.github.io) |
 | Ермаков Федя       | [FedorSmitt](https://github.com/FedorSmitt) | [Блог FedorSmitt](https://FedorSmitt.github.io) |
-| Загоскин Леша      | [](https://github.com/) | [Блог ](https://.github.io) |
+| Загоскин Леша      | [AlexeyZagoskin](https://github.com/AlexeyZagoskin) | [Блог AlexeyZagoskin](https://AlexeyZagoskin.github.io) |
 | Зубарев Кирилл     | [closettk](https://github.com/closettk) | [Блог closettk](https://closettk.github.io) |
-| Иванова Лиза       | [](https://github.com/) | [Блог ](https://.github.io) |
+| Иванова Лиза       | [LizaIvenova](https://github.com/LizaIvenova) | [Блог LizaIvenova](https://LizaIvenova.github.io) |
 | Камилова Ниса      | [kaniessi](https://github.com/kaniessi) | [Блог kaniessi](https://kaniessi.github.io) |
 | Лиханова Алевтина  | [](https://github.com/) | [Блог ](https://.github.io) |
 | Лиходей Назар      | [idk0182](https://github.com/idk0182) | [Блог idk0182](https://idk0182.github.io) |
