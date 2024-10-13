@@ -1,15 +1,15 @@
 # Морской бой
 
 1. Скачать и сохранить себе на компьютер файл `battleship.html`:
-<a href="https://raw.githubusercontent.com/yarmolinskiyam-yandex/yarmolinskiyam-yandex.github.io/refs/heads/main/battleship.html" download> ссылка на файл battleship.html </a>
+<a id="raw-url" href="https://raw.githubusercontent.com/yarmolinskiyam-yandex/yarmolinskiyam-yandex.github.io/refs/heads/main/battleship.html"> ссылка на файл battleship.html </a>
 
-2. Выбрать уникальную цветовую схему для своих кораблей (4 цвета в формате #xxxxxx) например с помощью сайта https://colorscheme.ru/:
+2. Выбрать уникальную цветовую схему для своих кораблей (4 цвета в формате #xxxxxx) например с помощью сайта [colorscheme.ru](https://colorscheme.ru/):
 
 ![изображение](https://github.com/user-attachments/assets/fb0f46b9-c53e-4bdc-a6cc-874b8448e33f)
 
 3. Изменить цвета на выбранные в настройках стиля для каждого корабля:
 
-![изображение](https://github.com/user-attachments/assets/55f6384a-af3d-4628-8291-6d65d18d0fd6)
+![image](https://github.com/user-attachments/assets/176a99c7-01c4-4093-8d06-6398a2d99247)
 
 > boat - 1-палубный торпедный катер, destroyer - 2-палубный эсминец, cruiser - 3-палубный крейсер, carrier - 4-палубный авианосец
 
@@ -20,6 +20,12 @@
 - 4 торпедных катера
 
 Корабли не могут касаться друг друга.
+
+Каждая клетка поля задается следующим кодом:
+
+```html
+<td>(1, 3)</td>
+```
 
 Для расскрашивания ячейки таблицы нужно определить этой ячейке класс:
 
