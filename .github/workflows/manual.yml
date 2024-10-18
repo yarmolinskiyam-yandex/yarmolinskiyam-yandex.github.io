@@ -19,7 +19,9 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }}"
-    - name: Explore
-      run: ls .; echo "\n"; ls ..
+    - name: checkout repo
+      uses: actions/checkout@v4
+    - name: verify checkout
+      run: ls
     - name: Update STUDENTS.md
       run: python3 gen_table.py
