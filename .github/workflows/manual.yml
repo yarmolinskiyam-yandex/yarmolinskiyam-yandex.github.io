@@ -20,4 +20,4 @@ jobs:
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }}"
     - name: Update STUDENTS.md
-      run: python3 get_table.py
+      run: python3 gen_table.py
