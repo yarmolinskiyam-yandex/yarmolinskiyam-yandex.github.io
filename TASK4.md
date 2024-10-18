@@ -15,7 +15,8 @@
 Шаблон отчета можно посмотреть здесь:
 
 [Внешний вид отчета](TASK4_tmpl)
-[Исходный файл шаблона отчета](xxx)
+
+[Исходный файл шаблона отчета](https://raw.githubusercontent.com/yarmolinskiyam-yandex/yarmolinskiyam-yandex.github.io/refs/heads/main/TASK4_tmpl.md)
 
 
 ## Варианты
