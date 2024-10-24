@@ -1,26 +1,26 @@
 # Ученики 11 кракена
 
-| ФИО | GitHub | Blog |
-| --- | --- | --- |
-| Антипова Ева       | [evvhelppls](https://github.com/evvhelppls) | [Блог evvhelppls](https://evvhelppls.github.io) |
-| Асмандияров Дима   | [Dimalio](https://github.com/Dimalio) | [Блог Dimalio](https://Dimalio.github.io) |
-| Бузулеева Маргарита     | [margaritttaa](https://github.com/margaritttaa) | [Блог margaritttaa](https://margaritttaa.github.io) |
-| Геращенко Соня     | [Gerash07](https://github.com/Gerash07) | [Блог Gerash07](https://Gerash07.github.io) |
-| Гицба Максим       | [gamekiller2007](https://github.com/gamekiller2007) | [Блог gamekiller2007](https://gamekiller2007.github.io) |
-| Голобокова Лиза    | [](https://github.com/) | [Блог ](https://.github.io) |
-| Ермаков Федя       | [FedorSmitt](https://github.com/FedorSmitt) | [Блог FedorSmitt](https://FedorSmitt.github.io) |
-| Загоскин Леша      | [AlexeyZagoskin](https://github.com/AlexeyZagoskin) | [Блог AlexeyZagoskin](https://AlexeyZagoskin.github.io) |
-| Зубарев Кирилл     | [closettk](https://github.com/closettk) | [Блог closettk](https://closettk.github.io) |
-| Иванова Лиза       | [LizaIvenova](https://github.com/LizaIvenova) | [Блог LizaIvenova](https://LizaIvenova.github.io) |
-| Камилова Ниса      | [kaniessi](https://github.com/kaniessi) | [Блог kaniessi](https://kaniessi.github.io) |
-| Лиханова Алевтина  | [](https://github.com/) | [Блог ](https://.github.io) |
-| Лиходей Назар      | [idk0182](https://github.com/idk0182) | [Блог idk0182](https://idk0182.github.io) |
-| Лобазев Кирилл     | [LobazevK](https://github.com/LobazevK) | [Блог LobazevK](https://LobazevK.github.io) |
-| Мамедов Гейдар     | [](https://github.com/) | [Блог ](https://.github.io) |
-| Маркина Милана     | [](https://github.com/) | [Блог ](https://.github.io) |
-| Музыка Тимофей     | [tm0009](https://github.com/tm0009) | [Блог tm0009](https://tm0009.github.io) |
-| Новиков Тимофей    | [monkeymoney115](https://github.com/monkeymoney115) | [Блог monkeymoney115](https://monkeymoney115.github.io) |
-| Родина Катя        | [KaterinaM07](https://github.com/KaterinaM07) | [Блог KaterinaM07](https://KaterinaM07.github.io) |
-| Сердукова Полина   | [Polina686](https://github.com/Polina686) | [Блог Polina686](https://Polina686.github.io) |
-| Тертышникова Соня  | [Sonechka007](https://github.com/Sonechka007) | [Блог Sonechka007](https://Sonechka007.github.io) |
-| Фомин Тимофей      | [t1m013y-schinf11](https://github.com/t1m013y-schinf11) | [Блог t1m013y-schinf11](https://t1m013y-schinf11.github.io) |
+| ФИО | GitHub | Блог | Знакомство с MarkDown | Знакомство с HTML | Морской бой | Кодирование текста | 
+| --- | --- | --- | --- | --- | --- | --- |
+| Антипова Ева       | [evvhelppls](https://github.com/evvhelppls) | [Блог evvhelppls](https://evvhelppls.github.io) | [Отчет](https://evvhelppls.github.io/ABOUT_md.md) | [Отчет](https://evvhelppls.github.io/ABOUT_html.html) | [Отчет](https://evvhelppls.github.io/battleship.html) | [Отчет](https://evvhelppls.github.io/TASK4.md) |
+| Асмандияров Дима   | [Dimalio](https://github.com/Dimalio) | [Блог Dimalio](https://Dimalio.github.io) | [Отчет](https://Dimalio.github.io/ABOUT_md.md) | [Отчет](https://Dimalio.github.io/ABOUT_html.html) | [Отчет](https://Dimalio.github.io/battleship.html) | [Отчет](https://Dimalio.github.io/TASK4.md) |
+| Бузулеева Маргарита     | [margaritttaa](https://github.com/margaritttaa) | [Блог margaritttaa](https://margaritttaa.github.io) | [Отчет](https://margaritttaa.github.io/ABOUT_md.md) | [Отчет](https://margaritttaa.github.io/ABOUT_html.html) | [Отчет](https://margaritttaa.github.io/battleship.html) | [Отчет](https://margaritttaa.github.io/TASK4.md) |
+| Геращенко Соня     | [Gerash07](https://github.com/Gerash07) | [Блог Gerash07](https://Gerash07.github.io) | [Отчет](https://Gerash07.github.io/ABOUT_md.md) | [Отчет](https://Gerash07.github.io/ABOUT_html.html) | [Отчет](https://Gerash07.github.io/battleship.html) | [Отчет](https://Gerash07.github.io/TASK4.md) |
+| Гицба Максим       | [gamekiller2007](https://github.com/gamekiller2007) | [Блог gamekiller2007](https://gamekiller2007.github.io) | [Отчет](https://gamekiller2007.github.io/ABOUT_md.md) | [Отчет](https://gamekiller2007.github.io/ABOUT_html.html) | [Отчет](https://gamekiller2007.github.io/battleship.html) | [Отчет](https://gamekiller2007.github.io/TASK4.md) |
+| Голобокова Лиза    | [LizaIvenova](https://github.com/LizaIvenova) | [Блог LizaIvenova](https://LizaIvenova.github.io) | [Отчет](https://LizaIvenova.github.io/ABOUT_md.md) | [Отчет](https://LizaIvenova.github.io/ABOUT_html.html) | [Отчет](https://LizaIvenova.github.io/battleship.html) | [Отчет](https://LizaIvenova.github.io/TASK4.md) |
+| Ермаков Федя       | [FedorSmitt](https://github.com/FedorSmitt) | [Блог FedorSmitt](https://FedorSmitt.github.io) | [Отчет](https://FedorSmitt.github.io/ABOUT_md.md) | [Отчет](https://FedorSmitt.github.io/ABOUT_html.html) | [Отчет](https://FedorSmitt.github.io/battleship.html) | [Отчет](https://FedorSmitt.github.io/TASK4.md) |
+| Загоскин Леша      | [AlexeyZagoskin](https://github.com/AlexeyZagoskin) | [Блог AlexeyZagoskin](https://AlexeyZagoskin.github.io) | [Отчет](https://AlexeyZagoskin.github.io/ABOUT_md.md) | [Отчет](https://AlexeyZagoskin.github.io/ABOUT_html.html) | [Отчет](https://AlexeyZagoskin.github.io/battleship.html) | [Отчет](https://AlexeyZagoskin.github.io/TASK4.md) |
+| Зубарев Кирилл     | [closettk](https://github.com/closettk) | [Блог closettk](https://closettk.github.io) | [Отчет](https://closettk.github.io/ABOUT_md.md) | [Отчет](https://closettk.github.io/ABOUT_html.html) | [Отчет](https://closettk.github.io/battleship.html) | [Отчет](https://closettk.github.io/TASK4.md) |
+| Иванова Лиза       | [LizaIvenova](https://github.com/LizaIvenova) | [Блог LizaIvenova](https://LizaIvenova.github.io) | [Отчет](https://LizaIvenova.github.io/ABOUT_md.md) | [Отчет](https://LizaIvenova.github.io/ABOUT_html.html) | [Отчет](https://LizaIvenova.github.io/battleship.html) | [Отчет](https://LizaIvenova.github.io/TASK4.md) |
+| Камилова Ниса      | [kaniessi](https://github.com/kaniessi) | [Блог kaniessi](https://kaniessi.github.io) | [Отчет](https://kaniessi.github.io/ABOUT_md.md) | [Отчет](https://kaniessi.github.io/ABOUT_html.html) | [Отчет](https://kaniessi.github.io/battleship.html) | [Отчет](https://kaniessi.github.io/TASK4.md) |
+| Лиханова Алевтина  | [alya111blueberry](https://github.com/alya111blueberry) | [Блог alya111blueberry](https://alya111blueberry.github.io) | [Отчет](https://alya111blueberry.github.io/ABOUT_md.md) | [Отчет](https://alya111blueberry.github.io/ABOUT_html.html) | [Отчет](https://alya111blueberry.github.io/battleship.html) | [Отчет](https://alya111blueberry.github.io/TASK4.md) |
+| Лиходей Назар      | [idk0182](https://github.com/idk0182) | [Блог idk0182](https://idk0182.github.io) | [Отчет](https://idk0182.github.io/ABOUT_md.md) | [Отчет](https://idk0182.github.io/ABOUT_html.html) | [Отчет](https://idk0182.github.io/battleship.html) | [Отчет](https://idk0182.github.io/TASK4.md) |
+| Лобазев Кирилл     | [LobazevK](https://github.com/LobazevK) | [Блог LobazevK](https://LobazevK.github.io) | [Отчет](https://LobazevK.github.io/ABOUT_md.md) | [Отчет](https://LobazevK.github.io/ABOUT_html.html) | [Отчет](https://LobazevK.github.io/battleship.html) | [Отчет](https://LobazevK.github.io/TASK4.md) |
+| Мамедов Гейдар     | [](https://github.com/) | [Блог ](https://.github.io) | [Отчет](https://.github.io/ABOUT_md.md) | [Отчет](https://.github.io/ABOUT_html.html) | [Отчет](https://.github.io/battleship.html) | [Отчет](https://.github.io/TASK4.md) |
+| Маркина Милана     | [](https://github.com/) | [Блог ](https://.github.io) | [Отчет](https://.github.io/ABOUT_md.md) | [Отчет](https://.github.io/ABOUT_html.html) | [Отчет](https://.github.io/battleship.html) | [Отчет](https://.github.io/TASK4.md) |
+| Музыка Тимофей     | [tm0009](https://github.com/tm0009) | [Блог tm0009](https://tm0009.github.io) | [Отчет](https://tm0009.github.io/ABOUT_md.md) | [Отчет](https://tm0009.github.io/ABOUT_html.html) | [Отчет](https://tm0009.github.io/battleship.html) | [Отчет](https://tm0009.github.io/TASK4.md) |
+| Новиков Тимофей    | [monkeymoney115](https://github.com/monkeymoney115) | [Блог monkeymoney115](https://monkeymoney115.github.io) | [Отчет](https://monkeymoney115.github.io/ABOUT_md.md) | [Отчет](https://monkeymoney115.github.io/ABOUT_html.html) | [Отчет](https://monkeymoney115.github.io/battleship.html) | [Отчет](https://monkeymoney115.github.io/TASK4.md) |
+| Родина Катя        | [KaterinaM07](https://github.com/KaterinaM07) | [Блог KaterinaM07](https://KaterinaM07.github.io) | [Отчет](https://KaterinaM07.github.io/ABOUT_md.md) | [Отчет](https://KaterinaM07.github.io/ABOUT_html.html) | [Отчет](https://KaterinaM07.github.io/battleship.html) | [Отчет](https://KaterinaM07.github.io/TASK4.md) |
+| Сердукова Полина   | [Polina686](https://github.com/Polina686) | [Блог Polina686](https://Polina686.github.io) | [Отчет](https://Polina686.github.io/ABOUT_md.md) | [Отчет](https://Polina686.github.io/ABOUT_html.html) | [Отчет](https://Polina686.github.io/battleship.html) | [Отчет](https://Polina686.github.io/TASK4.md) |
+| Тертышникова Соня  | [Sonechka007](https://github.com/Sonechka007) | [Блог Sonechka007](https://Sonechka007.github.io) | [Отчет](https://Sonechka007.github.io/ABOUT_md.md) | [Отчет](https://Sonechka007.github.io/ABOUT_html.html) | [Отчет](https://Sonechka007.github.io/battleship.html) | [Отчет](https://Sonechka007.github.io/TASK4.md) |
+| Фомин Тимофей      | [t1m013y-schinf11](https://github.com/t1m013y-schinf11) | [Блог t1m013y-schinf11](https://t1m013y-schinf11.github.io) | [Отчет](https://t1m013y-schinf11.github.io/ABOUT_md.md) | [Отчет](https://t1m013y-schinf11.github.io/ABOUT_html.html) | [Отчет](https://t1m013y-schinf11.github.io/battleship.html) | [Отчет](https://t1m013y-schinf11.github.io/TASK4.md) |
