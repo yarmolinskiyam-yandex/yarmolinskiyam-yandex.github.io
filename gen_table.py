@@ -1,9 +1,24 @@
 import csv
+import urllib.request
+
 
 # Define the input CSV file and output Markdown file paths
 students_csv = 'students.csv'  # Replace with your CSV file path
 tasks_csv = 'tasks.csv'  # Replace with your CSV file path
 output_md = 'STUDENTS.md'  # The generated Markdown file
+
+def check_url(url):
+    try:
+        code = urllib.request.urlopen(url).getcode()
+    except urllib.request.HTTPError as e:
+        # do something
+        return "[ОШИБКА]"
+    except urllib.request.URLError as e:
+        # do something
+        return "[ОШИБКА]"
+    else:
+        # do something
+        return "[ОК]"
 
 # Function to generate the markdown table
 def generate_md_table(student_csv, tasks_csv, output_md):
@@ -34,15 +49,18 @@ def generate_md_table(student_csv, tasks_csv, output_md):
                 
                 # Iterate through each row of the CSV file and write to the markdown file
                 for row in students_reader:
+
+                    print(row)
                     name = row['Name']
                     username = row['username']
                     
                     tasks_row = ''
                     for trow in tasks:
-                        tasks_row += f' [Отчет](https://{username}.github.io/{trow['URL']}) |'
+                        report_url = f'https://{username}.github.io/{trow['URL']}'
+                        tasks_row += f' [{check_url(report_url)}]({report_url}) |'
 
                     # Construct each row in markdown format
-                    md_row = f'| {name} | [{username}](https://github.com/{username}) | [Блог {username}](https://{username}.github.io) |' + tasks_row + '\n'
+                    md_row = f'| {name} | [{username}](https://github.com/{username}) | [{check_url(f"https://{username}.github.io")} Блог {username}](https://{username}.github.io) |' + tasks_row + '\n'
                     mdfile.write(md_row)
 
     print(f'Markdown table generated and saved to {output_md}')
