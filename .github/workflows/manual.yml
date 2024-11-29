@@ -42,7 +42,7 @@ jobs:
       run: ls
       
     - name: Update STUDENTS.md
-      run: python3 gen_table.py
+      run: python3.12 gen_table.py
       
     - name: Commit files
       run: |
