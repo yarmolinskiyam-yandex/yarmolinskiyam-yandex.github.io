@@ -42,7 +42,10 @@ jobs:
       run: ls
       
     - name: Update STUDENTS.md
-      run: python3.12 gen_table.py
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12' 
+    - run: python gen_table.py  
       
     - name: Commit files
       run: |
